@@ -1,0 +1,21 @@
+homeassistant:
+  # Customization file
+  customize: !include customize.yaml
+
+hue:
+  bridges:
+   - host: 192.168.1.130
+
+recorder:
+  include:
+    entities:
+      - input_number.alarm_clock_hours
+      - input_number.alarm_clock_minutes
+      - input_boolean.alarm_clock_status
+
+sensor: !include sensors.yaml
+input_number: !include input_numbers.yaml
+input_boolean: !include input_booleans.yaml
+media_player: !include media_players.yaml
+group: !include groups.yaml
+automation: !include automations.yaml
