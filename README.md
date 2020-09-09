@@ -16,7 +16,7 @@ Not just that, there are so many different projects done over a period of 3 year
 8. Home Automation
 
 Upcoming :-
-Shitty Robot Saga : 
+Robot (that is useless, but is fun) Saga : 
 1. Chair that throws you off the moment you sit on it.
 2. When we open/close a door it'll give off a wierd sound
 3. Diagram (lung style) for alexa or siri { so that we can creep off anyone }
