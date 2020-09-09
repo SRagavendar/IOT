@@ -13,7 +13,7 @@ Not just that, there are so many different projects done over a period of 3 year
 5. Matrix Painter
 6. PC Joystick
 7. Old Clock Phone
-8. Home Automation
+8. Home Automation (working on some updates, will come again)
 
 Upcoming :-
 Robot (that is useless, but is fun) Saga : 
